@@ -7,7 +7,7 @@ function Footer() {
   return (
     <> 
       <div className="main-footer">
-        <p>(C) 2023 - {new Date().getFullYear()}. All Rights Reserved.</p>
+        <p>(C) 2023 - {new Date().getFullYear()} dallas. All Rights Reserved.</p>
       </div>
       <div className="easter-egg">
         <p>you clicked {count} times xD</p>
